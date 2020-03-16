@@ -1,0 +1,25 @@
+{
+  "name": "calibcalc",
+  "version": "1.0.0",
+  "description": "The application for calibration calculation",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frisa/CalibCalc.git"
+  },
+  "keywords": [
+    "calibration"
+  ],
+  "author": "Jan Fridrichovsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frisa/CalibCalc/issues"
+  },
+  "homepage": "https://github.com/frisa/CalibCalc#readme",
+  "devDependencies": {
+    "electron": "^8.1.1"
+  }
+}
